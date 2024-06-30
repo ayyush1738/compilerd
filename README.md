@@ -12,14 +12,13 @@
 ## Changes i have made
 <ol>
   <li>Integrated Front-end using react</li>
-  We will run the project locally and try to make a request to see a sample use case :
-  ```cd frontend```
-  ```npm install```
   <li>Added three new languages
     <ul>SQL</ul>
     <ul>Solidity</ul>
     <ul>Go</ul>
   </li>
+  <li>Added new test cases</li>
+  <li>Added my own feature such as light and dark mode</li>
 </ol>
 
 
