@@ -12,7 +12,6 @@
 ## Changes i have made
 <ol>
   <li>Integrated Front-end using react</li>
-    ```cd frontend```
   <li>Added three new languages
     <ul>SQL</ul>
     <ul>Solidity</ul>
