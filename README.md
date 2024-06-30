@@ -7,8 +7,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] -->
 
-![Screenshot 2024-07-01 004119](https://github.com/ayyush1738/compilerd/assets/90915679/9dd2293d-efaf-42db-996d-201db92dcd52)
-
 
 ## Changes i have made
 <ol>
@@ -21,6 +19,8 @@
   <li>Added new test cases</li>
   <li>Added my own feature such as light and dark mode</li>
 </ol>
+![Screenshot 2024-07-01 004119](https://github.com/ayyush1738/compilerd/assets/90915679/9dd2293d-efaf-42db-996d-201db92dcd52)
+
 
 
 ## Table of contents : 
