@@ -8,17 +8,30 @@
 [![Issues][issues-shield]][issues-url] -->
 
 
-## Changes i have made
+## Changes I have made
 <ol>
-  <li>Integrated Front-end using react</li>
+  <li>
+    Integrated Front-end using React
+    <ul>
+      <li>Navigate to the frontend directory:</li>
+      <code>cd frontend</code>
+      <li>Install dependencies:</li>
+      <code>npm install</code>
+      <li>Run the development server:</li>
+      <code>npm run dev</code>
+    </ul>
+  </li>
   <li>Added three new languages
-    <ul>SQL</ul>
-    <ul>Solidity</ul>
-    <ul>Go</ul>
+    <ul>
+      <li>SQL</li>
+      <li>Solidity</li>
+      <li>Go</li>
+    </ul>
   </li>
   <li>Added new test cases</li>
   <li>Added my own feature such as light and dark mode</li>
 </ol>
+
 
 
 ![Screenshot 2024-07-01 004119](https://github.com/ayyush1738/compilerd/assets/90915679/9dd2293d-efaf-42db-996d-201db92dcd52)
