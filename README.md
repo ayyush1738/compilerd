@@ -29,7 +29,7 @@
     </ul>
   </li>
   <li>Added new test cases</li>
-  <li>Added my own feature such as light and dark mode</li>
+  <li>Added my own feature such as light and dark mode or displaying the code snippet</li>
 </ol>
 
 
